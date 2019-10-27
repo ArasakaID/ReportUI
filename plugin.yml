@@ -1,0 +1,10 @@
+name: ReportUI
+main: report\report\Loader
+author: MasApip
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+commands:
+ report:
+  description: Report someone
+  permission: report.command
+  default: true
