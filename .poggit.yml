@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MasApip/ReportUI
+branches:
+- master
+projects:
+  ReportUI:
+    path: ""
+...
