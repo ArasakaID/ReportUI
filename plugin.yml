@@ -2,6 +2,7 @@ name: ReportUI
 main: report\report\Loader
 author: MasApip
 version: 1.0.0
+depend: FormAPI
 api: [3.0.0, 4.0.0]
 commands:
  report:
